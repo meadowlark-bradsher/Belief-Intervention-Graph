@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# HCG generated outputs (path-based, no blanket JSON ignores)
+out/
+artifacts/
+hypothesis_graph/artifacts/
